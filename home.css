@@ -37,11 +37,12 @@ a {
 
 
 .headright {
-/**	list-style-type: none;
+/*	list-style-type: none;
 	margin: 1;
 	padding: 5;
 	overflow: hidden;
-**/	
+	padding: 5;
+	*/
 	float: right;
 }
 
@@ -61,3 +62,13 @@ li {
 	float: right;
 }
 
+.sgninbtn {
+	background-color: #4646ff ;
+	border-radius: 2px;
+	border: 1px solid #4646ff ;
+	height: 35px;
+	width: 75px;
+	color: #ffffff;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+}
