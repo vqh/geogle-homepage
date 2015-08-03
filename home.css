@@ -1,0 +1,63 @@
+img {
+	width: 400px;
+	height: 150px;
+}
+
+.homePg {
+	text-align: center;
+	padding: 220px;
+}
+
+
+#searchtxt {
+	height: 30px;
+	border-color: blue;
+}
+
+.bttn1 input[type="submit"] {
+	border-radius: 5px;
+	border: 1px solid #f0f0f0;
+	height: 35px;
+	width: 150px;
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #444;
+	text-align: center;
+	background-color: #f0f0f0;
+	padding: 0px 8px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 15px;
+	font-family: arial, sans-serif;
+	color: #353535;
+}
+
+
+.headright {
+/**	list-style-type: none;
+	margin: 1;
+	padding: 5;
+	overflow: hidden;
+**/	
+	float: right;
+}
+
+li {
+	display: inline;
+}
+
+.pdright {
+	padding-right: 20px;
+}
+
+.btmleft {
+	float: left;
+}
+
+.btmright {
+	float: right;
+}
+
